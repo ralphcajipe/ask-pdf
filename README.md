@@ -18,6 +18,10 @@ This project is an application of Retrieval-Augmented Generation (RAG), an AI fr
 # Quickstart/Demo
 To get started, clone the repo and follow the installation instructions. This project uses Ollama, an open-source tool for working with large language models locally. Download it from [Ollama](https://ollama.com). Once set up, you can ask your PDF document for information.
 
+<p align="center">
+    <img src="./assets/demo.jpg" alt="Boy using laptop" width="1080">
+</p>
+
 # Table of Contents
 
 - [Project Title](#project-title)
