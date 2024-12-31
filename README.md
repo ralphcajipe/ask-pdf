@@ -13,7 +13,7 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ralphcajipe/ask-pdf)
 ![GitHub](https://img.shields.io/github/license/ralphcajipe/ask-pdf)
 
-This project is an application of Retrieval-Augmented Generation (RAG), an AI framework that combines the power of large language models with additional information from reliable sources. Currently, I'm in the process of experimenting with various large language models to extract answers from a PDF document. The research is primarily conducted using Jupyter Notebooks, where we input a question, retrieve relevant information from the PDF document, and generate a response using the language model. Importantly, all of this can be done using open-source models, locally on our own computers, making this accessible and reproducible.
+This is an application of Retrieval-Augmented Generation (RAG), an AI framework that combines the power of large language models with additional information from reliable sources. Currently, I'm in the process of experimenting with various large language models to extract answers from a PDF document. The research is primarily conducted using Jupyter Notebooks, where we input a question, retrieve relevant information from the PDF document, and generate a response using the language model. Importantly, all of this can be done using open-source models, locally on our own computers, making this accessible and reproducible.
 
 # Quickstart/Demo
 To get started, clone the repo and follow the installation instructions. This project uses Ollama, an open-source tool for working with large language models locally. Download it from [Ollama](https://ollama.com). Once set up, you can ask your PDF document for information.
